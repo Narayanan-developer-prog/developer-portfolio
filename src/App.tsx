@@ -8,7 +8,7 @@ import "./App.css";
 const socials = {
   github: "https://github.com/narayanan-developer-prog",
   linkedin: "#", // TODO: paste your LinkedIn URL
-  instagram: "https://www.instagram.com/thalapathy_vetri_kondan_07/?hl=en-in", // TODO: paste your Instagram URL
+  instagram: "https://www.instagram.com/narayanan._.dev._.7/?hl=en-in", // TODO: paste your Instagram URL
 
 };
 
