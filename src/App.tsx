@@ -41,21 +41,37 @@ const projects = [
     title: "HTML & CSS Website",
     desc: "A static site built to practice semantic markup and responsive layout fundamentals.",
     stack: ["HTML5", "CSS3"],
-    code: "#", // TODO: GitHub repo link
+    code: " https://narayanan-developer-prog.github.io/project1/",
   },
   {
     tag: "02",
     title: "QR Code Generator",
     desc: "A small utility app that turns any text or link into a downloadable QR code.",
     stack: ["JavaScript", "API"],
-    code: "#", // TODO
+    code: "https://project2-p7b2.onrender.com", 
   },
   {
     tag: "03",
     title: "Developer Portfolio",
     desc: "This site — built with React and Vite to showcase projects and skills.",
     stack: ["React", "TypeScript", "Vite"],
-    code: "https://github.com/narayanan-developer-prog/developer-portfolio",
+    code: "https://developer-portfolio-narayanan2.vercel.app",
+  },
+
+  {
+    tag: "04",
+    title: "Bazaarly.in",
+    desc: "This site — built with React and Vite to showcase the fullstack development .",
+    stack: ["python","javascript","html","css","Django"],
+    code: "https://bazaarly-fullstack-frontend.vercel.app",
+  },
+
+   {
+    tag: "05",
+    title: "Expense-flow",
+    desc: "This site — built with React and Vite use to store our dailu expense  in this site .",
+    stack: ["React", "TypeScript", "Vite"],
+    code: "https://expense-flow-lemon.vercel.app",
   },
 ];
 
